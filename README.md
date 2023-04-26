@@ -1,4 +1,4 @@
-# fakestagram
+# Instagram_Copy
 
 A new Flutter project.
 
